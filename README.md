@@ -33,5 +33,5 @@
 
 
 ##### 하이퍼링크
-[GitHub](https://jample--kihwankim.repl.co/)
+[내가 만든 사이트](https://jample--kihwankim.repl.co/)
 
