@@ -37,10 +37,11 @@
 방법: [제목] + (url)  
 
 ##### 코드블록
-''' python
+``` python
 print (2+2)
 print ('hello world')
-'''
+```
+
 
 
 
