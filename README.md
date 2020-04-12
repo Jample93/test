@@ -29,3 +29,4 @@
 첫 번째 방법: !+[이미지명]+/파일url
 
 <a href="#"><img src="https://github.com/Jample93/test/blob/master/image/background2.jpg" width="400px" alt="background2"></a>
+두 번째 방법 : img src에는 url주소, alt에는 이미지 이름 넣기
