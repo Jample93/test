@@ -108,10 +108,10 @@ GitHub supports emoji!
 
 ##### 배지(badge)만들기  
 
-<img src="https://img.shields.io/badge/license-KKH-blue">   
+<img src="https://img.shields.io/badge/Programmer-KKH-blue">   
 
 방법 : https://shields.io/ 사이트 접속
-> label에는 license  
+> label에는 license or 자기가 원하는 것 
 > message 에는 mit or 자기가 원하는 것   
 > color 에는 원하는 색 지정
 
