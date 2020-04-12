@@ -25,8 +25,8 @@
 그러나 스페이스바를 두 번 띄어서   
 사용하면 문장이 끊어져서 출력된다
 
-![background2](/image/background2.jpg)
+![background2](/image/background2.jpg)  
 첫 번째 방법: !+[이미지명]+/파일url
 
-<a href="#"><img src="https://github.com/Jample93/test/blob/master/image/background2.jpg" width="400px" alt="background2"></a>
+<a href="#"><img src="https://github.com/Jample93/test/blob/master/image/background2.jpg" width="400px" alt="background2"></a>  
 두 번째 방법 : img src에는 url주소, alt에는 이미지 이름 넣기
