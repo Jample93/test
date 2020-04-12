@@ -107,3 +107,5 @@ GitHub supports emoji!
 > 참고: https://www.webfx.com/tools/emoji-cheat-sheet/    << 이모지 사이트
 
 ##### 배지(badge)만들기  
+
+<img src="https://img.shields.io/badge/license-mit-brightgreen">
