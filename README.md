@@ -99,9 +99,11 @@ ___
 방법: \ + * + 문장 + \ + * 
 ##### 이모지(EMOGI)-아이콘   
 
-GitHub supports emoji! 
+GitHub supports emoji!   
 :+1: :sparkles: :camel: :tada: 
 :rocket: :metal: :octocat:
 
+방법: GitHub supports emoji! 사용하기
+> 참고: https://www.webfx.com/tools/emoji-cheat-sheet/    << 이모지 사이트
 
 ##### 배지(badge)만들기  
