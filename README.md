@@ -26,4 +26,6 @@
 사용하면 문장이 끊어져서 출력된다
 
 ![background2](/image/background2.jpg)
+첫 번째 방법: !+[이미지명]+/파일url
 
+<a href="#"><img src="https://github.com/Jample93/test/blob/master/image/background2.jpg" width="400px" alt="background2"></a>
