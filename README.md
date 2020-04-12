@@ -93,10 +93,15 @@ ___
 ##### 탈출문자    
 
 \*사랑\*   
-*사랑*/   
+*사랑*   
 \*\*사랑\*\*     
 
 방법: \ + * + 문장 + \ + * 
 ##### 이모지(EMOGI)-아이콘   
+
+GitHub supports emoji! 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
+
 
 ##### 배지(badge)만들기  
